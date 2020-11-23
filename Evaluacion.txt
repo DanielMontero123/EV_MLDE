@@ -1,3 +1,4 @@
-Nombres: Daniel Eduardo
 Apellidos: Montero Lopez
+Nombres: Daniel Eduardo
+Telefono: 0983049712
 
